@@ -204,4 +204,5 @@ If it helped you create something special, you can support the project with a sm
 Thank you for keeping it alive!
 
 ## 📜 License
-MIT License - Feel free to use this for your Valentine! 
+MIT License - Feel free to use this for your Valentine! ![1000003447](https://github.com/user-attachments/assets/840f7f85-40d3-4eef-9ef8-a4d1b0f2001c)
+
